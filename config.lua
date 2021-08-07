@@ -23,7 +23,7 @@ Config.RentelLocations = {
     ['Tinsel Towers Street'] = {
         ['coords'] = vector4(-716.9338, -58.31439, 37.472839, 297.83691)
     },
-    ['magazin ul de masini nu e gata'] = {
+    ['Pilpox Street'] = {
         ['coords'] = vector4(252.51887, -635.4688, 40.480518, 182.19883)
     }     
 }
